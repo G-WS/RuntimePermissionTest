@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RuntimePermissionTest</string>
+    <string name="make_call">Make Call</string>
 </resources>
